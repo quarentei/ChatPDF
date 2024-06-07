@@ -1,0 +1,16 @@
+credentials:
+  usernames:
+    peterparker:
+      email: 
+      logged_in: False
+      name: Peter Parker
+      password: abc1234
+    ironman:
+      email: testando1@gmail.com
+      logged_in: False
+      name: Tony Stark
+      password: abc1234
+cookie:
+  expiry_days: 100
+  key: some_signature_key
+  name: some_cookie_name
